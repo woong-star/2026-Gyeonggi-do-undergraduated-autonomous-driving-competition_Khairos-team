@@ -1,0 +1,6 @@
+opencv-python>=4.8
+numpy>=1.23
+ultralytics>=8.0.0
+pyserial>=3.5
+# optional (better path smoothing)
+scipy>=1.10
